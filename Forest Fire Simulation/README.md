@@ -1,8 +1,13 @@
-The purpose of these programs were to test for the best dimensions for selective deforestation in a grid pattern.
-The ideal pattern would minimise damage from forest fires and minimise trees required to be deforested.
+Is selective deforestation an effective method for combatting forest fires and how can this strategy be used most effectively?
+
+Every year, in the US alone, more than 100,000 wildfires destroy 4 to 5 million acres of land (National Geographic, n.d.). As the issue worsens, researchers have developed methods to mitigate the impacts of wildfires, one being selective deforestation.
+
+These programs focus on the row thinning technique where trees are removed to form plots of forest with a fixed distance between each deforested row and column, creating grid-like plots of forest. The ideal pattern would minimise damage from forest fires and minimise trees required to be deforested. 
+
+The distance between each empty row (height of divided plots) is given by i, and for columns (width of divided plots) it is given by j. The aim was to loop the entire simulation after each increment of j or increment of i within j to simulate forest fires on different grid/plot dimensions. The results were be stored in an external .txt file. 
 
 forestfunctions.py contains functions that will:
-  1. Simulate a forest fire on a grid
+  1. Simulate a randomly situated forest fire on a rectangular area of forest
   2. Show how many trees are deforested (empty), healthy (tree), on fire (fire), burnt (charred)
   3. Selectivelty and evenly deforest i rows and j columns of trees to form a grid pattern
 
