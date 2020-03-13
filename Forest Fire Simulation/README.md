@@ -11,7 +11,7 @@ forestfunctions.py contains functions that will:
   2. Show how many trees are deforested (empty), healthy (tree), on fire (fire), burnt (charred)
   3. Selectivelty and evenly deforest i rows and j columns of trees to form a grid pattern
 
-forestfunctions.py contains all the functions required for the simulation. Whereas forest.py is where the user can play around with parameters and change the way the simulation is executed.
+[forestfunctions.py](forestfunctions.py) contains all the functions required for the simulation. Whereas forest.py is where the user can play around with parameters and change the way the simulation is executed.
 
 Parameters that can be changed in forest.py include:
   1. Total time of simulation
