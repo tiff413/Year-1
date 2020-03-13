@@ -12,6 +12,18 @@ The data collected was stored on a txt file ([results for heapsort](heapsortResu
 
 <h2>Results</h2>
 
+**Average of 10 trails**
+
 ![AvgComparisonsExchanges](./graphs/avgComparisonsExchanges.png)
 
 ![AvgTime](./graphs/avgTime.png)
+
+**Some individual trials**
+
+| Comparisons and Exchanges  | Time |
+| ------------- | ------------- |
+| <img src="./graphs/comparisonsExchanges1.png" width="400">  | <img src="./graphs/time1.png" width="400">  |
+| <img src="./graphs/comparisonsExchanges2.png" width="400">  | <img src="./graphs/time2.png" width="400">  |
+| <img src="./graphs/comparisonsExchanges3.png" width="400">  | <img src="./graphs/time3.png" width="400">  |
+
+
