@@ -14,9 +14,9 @@ The data collected was stored on a txt file ([results for heapsort](heapsortResu
 
 **Average of 10 trails**
 
-![AvgComparisonsExchanges](./graphs/avgComparisonsExchanges.png)
+<img src="./graphs/avgComparisonsExchanges.png" width="700">
 
-![AvgTime](./graphs/avgTime.png)
+<img src="./graphs/avgTime.png" width="700">
 
 **Some individual trials**
 
