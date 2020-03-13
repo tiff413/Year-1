@@ -6,7 +6,7 @@ A first algorithm [createDataSets.py](createDataSets.py) was used to create rand
 
 The [heapsort](heapsort.py) and [quicksort](quicksort.py) algorithms were manipulated to have counters for no. of comparisons and number of exchanges.
 
-The data collected was stored on a txt file and transferred to excel to be analysed and presented.
+The data collected was stored on a txt file ([results for heapsort](heapsortResults.txt), [results for quicksort](quicksortResults.txt)) and transferred to excel to be analysed and presented.
 
 <h2>Results</h2>
 
