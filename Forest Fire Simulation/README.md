@@ -6,12 +6,12 @@ These programs focus on the row thinning technique where trees are removed to fo
 
 The distance between each empty row (height of divided plots) is given by i, and for columns (width of divided plots) it is given by j. The aim was to loop the entire simulation after each increment of j or increment of i within j to simulate forest fires on different grid/plot dimensions. The results were be stored in an external .txt file. 
 
-forestfunctions.py contains functions that will:
+[forestfunctions.py](forestfunctions.py) contains functions that will:
   1. Simulate a randomly situated forest fire on a rectangular area of forest
   2. Show how many trees are deforested (empty), healthy (tree), on fire (fire), burnt (charred)
   3. Selectivelty and evenly deforest i rows and j columns of trees to form a grid pattern
 
-[forestfunctions.py](forestfunctions.py) contains all the functions required for the simulation. Whereas forest.py is where the user can play around with parameters and change the way the simulation is executed.
+forestfunctions.py contains all the functions required for the simulation. Whereas [forest.py](forest.py) is where the user can play around with parameters and change the way the simulation is executed.
 
 Parameters that can be changed in forest.py include:
   1. Total time of simulation
