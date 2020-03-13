@@ -6,3 +6,5 @@ Algorithms to:
     (webscrape.py)
 3. Analye the most frequently used words from the transcript text using NLTK
     (analyse.py)
+
+![results](results.png)
