@@ -1,4 +1,4 @@
-<h2>Comparing Heapsort and Quicksort</h2>
+<h1>Comparing Heapsort and Quicksort</h1>
 
 These algorithms were created to compare the time taken, no. of comparisons and no. of exchanges between quicksort and heapsort, and how they differ when the size of the list increases.
 
@@ -8,7 +8,7 @@ The heapsort and quicksort algorithms were manipulated to have counters for no. 
 
 The data collected was stored on a txt file and transferred to excel to be analysed and presented.
 
-<h1>Results</h1>
+<h2>Results</h2>
 
 ![AvgComparisonsExchanges](./graphs/avgComparisonsExchanges.png)
 
